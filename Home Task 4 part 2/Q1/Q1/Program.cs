@@ -9,7 +9,7 @@ namespace Q1
     internal class Program
     {
 
-        // this is a class for book.
+       
         static void Main(string[] args)
         {
             book book1 = new book();
