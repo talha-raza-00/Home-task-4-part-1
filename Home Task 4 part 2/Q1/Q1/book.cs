@@ -13,7 +13,7 @@ namespace Q1
         public string ISBN;
         public double price;
 
-        //this is  a comment
+      
         public void display()
         {
             Console.WriteLine("The name of the book is : {0}", title);
